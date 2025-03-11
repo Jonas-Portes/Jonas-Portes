@@ -45,7 +45,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 Estou aberto a oportunidades de colaboração e novos desafios. Se você quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
 
 - Email: <a href="mailto:jonas.portes@hotmail.com" target="_blank">jonas.portes@hotmail.com</a>
-- LinkedIn: <a href="[https://www.linkedin.com/in/emmanoel-vieira-57b7b6244](https://br.linkedin.com/in/jonas-portes)/" target="_blank">Jonas Portes</a>
+- LinkedIn: <a href="https://br.linkedin.com/in/jonas-portes" target="_blank">Jonas Portes</a>
 - Portfolio: <a href="#">Em produção</a>
 
 Ficarei feliz em discutir qualquer oportunidade de colaboração ou projetos interessantes que você tenha em mente. Vamos trabalhar juntos para alcançar grandes resultados que só as BigTechs em ascessão conseguem!
