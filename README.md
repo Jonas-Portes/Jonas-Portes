@@ -28,10 +28,15 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 - **Tecnologias:**
   - HTML5 / CSS3, React.js / Next.js, Node.js, AngularJS
-  - 
+  
 - **Ferramentas e Frameworks:**
   - Git / GitHub, Visual Studio Code, Bootstrap, Express.js
 
+- **Onde estudo:**
+  - [LeetCode](https://leetcode.com/u/Jonas_Portes/)
+  - [DIO](https://www.dio.me/users/jonas_portes)
+  - [RocketSeat](https://app.rocketseat.com.br/me/jonasportes)
+ 
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jonas-Portes&show_icons=true)
