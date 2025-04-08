@@ -41,6 +41,11 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jonas-Portes&show_icons=true)
 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@JonasPortes/30-nites-of-code)  
+  ![@JonasPortes #30NitesOfCode](https://www.codedex.io/api/petStatus?user=JonasPortes)
+  
 ## Linguagens Mais Utilizadas
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Portes&layout=compact)
