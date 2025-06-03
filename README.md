@@ -36,6 +36,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
   - [LeetCode](https://leetcode.com/u/Jonas_Portes/)
   - [DIO](https://www.dio.me/users/jonas_portes)
   - [RocketSeat](https://app.rocketseat.com.br/me/jonasportes)
+  - [Kaggle](https://www.kaggle.com/jonasportes)
  
 ## Estatísticas do GitHub
 
