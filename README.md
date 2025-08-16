@@ -1,58 +1,61 @@
 <h1 align="center">Jonas Portes</h1>
 
-## Sobre mim
+## About Me
 
-Trabalho em uma uma empresa de monitoração de DCs, mas quero focar em uma carreira de programação, aprendendo com a [RocketSeat](https://app.rocketseat.com.br/me/jonasportes) para criar aprofundar os meus conhecimentos e o [LeetCode](https://leetcode.com/u/Jonas_Portes) para refinar os meus conhecimentos. Meu objetivo é tornar-me um desenvolvedor Back-end, trazendo soluções eficazes e rápidas para os desafios do mundo digital.
+I currently work at a DCs monitoring company, but my focus is on building a solid career in **Software Development**, with a strong interest in **Back-end Engineering**.  
+I continuously learn through platforms such as [RocketSeat](https://app.rocketseat.com.br/me/jonasportes), [LeetCode](https://leetcode.com/u/Jonas_Portes), and [Kaggle](https://www.kaggle.com/jonasportes), enhancing my expertise in **problem solving**, **data structures**, and **algorithm optimization**.  
+My goal is to create **scalable systems**, design efficient **APIs**, and deliver innovative solutions that meet the challenges of the **digital transformation era**.  
 
-## O que faço
+## What I Do
 
-Atualmente, estou imerso em uma jornada de aprendizado na RocketSeat, explorando e aprimorando minhas habilidades em diversas áreas:
+I’m immersed in a continuous learning journey, honing my skills across different areas of technology:  
 
-- **Desenvolvimento Web:** Utilizando HTML, CSS e JavaScript para criar experiências envolventes. Além disso, estudo frameworks como AngularJS, Bootstrap e ReactJS para trazer inovação aos meus projetos.
-- **Cloud Computing:** Utilizo tecnologias para implementar e escalar soluções através de web services e RESTful APIs, explorando as infinitas possibilidades oferecidas pela nuvem.
-- **Tecnologias Emergentes:** Busco constantemente expandir meus horizontes explorando tecnologias emergentes como Blockchain, Inteligência Artificial e IoT.
+- **Back-end Development:** Experience with **API Development**, **RESTful APIs**, **microservices architecture**, and **software engineering practices**.  
+- **Web Development:** Knowledge in **HTML5, CSS3, JavaScript, TypeScript**, and frameworks such as **React.js, Next.js, AngularJS, Bootstrap**.  
+- **Cloud Computing:** Familiar with **cloud-native solutions**, **web services**, and the scalability of modern applications through **DevOps practices** and **CI/CD pipelines**.  
+- **Emerging Technologies:** Exploring **Artificial Intelligence (AI)**, **IoT**, and **Blockchain Solutions** as a way to stay ahead of market demands.  
 
-Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minhas ideias, resolver problemas e entender as demandas do mercado, com o objetivo final de criar minha própria startup.
+I also cultivate an **entrepreneurial mindset**, working towards creating technology-driven solutions with real business impact and a potential startup vision.  
 
-## Projetos Destacados
+## Featured Projects
 
-Aqui estão alguns dos meus projetos mais notáveis:
+1. **[Portfolio](#)**: Coming soon.  
+2. **[Pending Project](#)**: Coming soon.  
 
-1. **[Portfolio](#)**: Em breve.
-2. **[Projeto Pendente](#)**: Em breve.
+## Technologies and Skills
 
-## Tecnologias e Habilidades
+- **Programming Languages:**  
+  - Python, Java, JavaScript, TypeScript, C, C#  
 
-- **Linguagens de Programação:**
-  - Python, Java, JavaScript, TypeScript, C, C#
+- **Frameworks & Tools:**  
+  - Node.js, Express.js, React.js / Next.js, AngularJS, Bootstrap, Git / GitHub, Docker, Kubernetes  
 
-- **Tecnologias:**
-  - HTML5 / CSS3, React.js / Next.js, Node.js, AngularJS
-  
-- **Ferramentas e Frameworks:**
-  - Git / GitHub, Visual Studio Code, Bootstrap, Express.js
+- **Databases:**  
+  - SQL, NoSQL  
 
-- **Onde estudo:**
-  - [LeetCode](https://leetcode.com/u/Jonas_Portes/)
-  - [DIO](https://www.dio.me/users/jonas_portes)
-  - [RocketSeat](https://app.rocketseat.com.br/me/jonasportes)
-  - [Kaggle](https://www.kaggle.com/jonasportes)
- 
-## Estatísticas do GitHub
+- **Development Practices:**  
+  - Object-Oriented Programming (OOP), Clean Code, Agile Methodologies, CI/CD  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jonas-Portes&show_icons=true)
+- **Where I Learn and Improve:**  
+  - [LeetCode](https://leetcode.com/u/Jonas_Portes/)  
+  - [DIO](https://www.dio.me/users/jonas_portes)  
+  - [RocketSeat](https://app.rocketseat.com.br/me/jonasportes)  
+  - [Kaggle](https://www.kaggle.com/jonasportes)  
 
-  
-## Linguagens Mais Utilizadas
+## GitHub Statistics
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Portes&layout=compact)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Jonas-Portes&show_icons=true)  
 
-## Como Entrar em Contato
+## Most Used Programming Languages
 
-Estou aberto a oportunidades de colaboração e novos desafios. Se você quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Portes&layout=compact)  
 
-- Email: <a href="mailto:jonas.portes@hotmail.com" target="_blank">jonas.portes@hotmail.com</a>
-- LinkedIn: <a href="https://br.linkedin.com/in/jonas-portes" target="_blank">Jonas Portes</a>
-- Portfolio: <a href="#">Em produção</a>
+## How to Get in Touch
 
-Ficarei feliz em discutir qualquer oportunidade de colaboração ou projetos interessantes que você tenha em mente. Vamos trabalhar juntos para alcançar grandes resultados que só as BigTechs em ascessão conseguem!
+I’m open to **collaboration opportunities**, **software development challenges**, and projects where I can apply my skills in **back-end engineering** and **scalable system design**.  
+
+- Email: <a href="mailto:jonas.portes@hotmail.com" target="_blank">jonas.portes@hotmail.com</a>  
+- LinkedIn: <a href="https://br.linkedin.com/in/jonas-portes" target="_blank">Jonas Portes</a>  
+- Portfolio: <a href="#">Coming soon</a>  
+
+Let’s build efficient solutions together and drive innovation in technology.  
